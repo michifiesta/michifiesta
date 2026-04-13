@@ -18,6 +18,9 @@ Like a Mouse. Just move it with your finger or the Pen.
 The control or idontknow, i dont even have avaiable support for it. Maybe working for digital controls????
 # Links
 https://10xc7.itch.io/michifiesta -- official itch page for michifiesta
+
 https://scratch.mit.edu/projects/1255216712/ -- official scratch page for michifiesta (for archiving only purposes, it's not being updated anymore)
+
 https://scratch.mit.edu/studios/51436808/ -- official scratch studio page for michifiesta
+
 https://github.com/inuez/michifiesta/ -- official github repository for michifiesta
