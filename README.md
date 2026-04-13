@@ -24,3 +24,5 @@ https://scratch.mit.edu/projects/1255216712/ -- official scratch page for michif
 https://scratch.mit.edu/studios/51436808/ -- official scratch studio page for michifiesta
 
 https://github.com/inuez/michifiesta/ -- official github repository for michifiesta
+# Where do i find the .pmp or .sb3 file to start working???????
+see, file is way too big so the pmp file (im working on PenguinMod (https://penguinmod.com/) so yeah use pmp file for it. it's on the releases tab, the name is something like: michifiesta pmp file (version letter)(version number).
