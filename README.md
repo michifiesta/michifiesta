@@ -1,7 +1,7 @@
 # michifiesta
 the official github repository for the project: michifiesta check it out itz zo kool if u wanna fork it
 # README content:
-heyy wsp remember me? the guy who doesnt know how to make forks, so PenguinMod didnt accept my totally optimized game so im just uploading here to make it Open-Source brehhh (note: u cant upload it to penguinmod i guess??) and also if ur going to "fork" this game at least give me credit (aynonyaz and a guy called luisfe)
+heyy wsp remember me? the guy who doesnt know how to make forks, so PenguinMod didnt accept my totally optimized game so im just uploading here to make it Open-Source brehhh (note: u cant upload it to penguinmod i guess??) and also if ur going to "fork" this game at least give me credit
 # H2P (How To Play)
 Move ur cursor around and dont make the cat touch the baloons
 # Loreeee
